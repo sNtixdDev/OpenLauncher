@@ -13,17 +13,13 @@ A minimal Terminal-Inspired Android launcher.
       </td>
       <td style="border: none;"></td>
     </tr>
-    <!-- Fila Central: Notas, HomeScreen, Ajustes -->
+    <!-- Fila Central: HomeScreen -->
     <tr>
-      <td align="center" valign="middle" style="border: none;">
-        <img src="https://github.com/user-attachments/assets/316def85-e556-43e2-bfa3-11142d3fce51" width="180" alt="Notes"><br>
-      </td>
+      <td style="border: none;"></td>
       <td align="center" valign="middle" style="border: none;">
         <img src="https://github.com/user-attachments/assets/8f548af0-368d-4ba4-bb57-0e2a463804ce" width="180" alt="HomeScreen">
       </td>
-      <td align="center" valign="middle" style="border: none;">
-        <img src="https://github.com/user-attachments/assets/256ce918-5f77-4177-bede-f8b2a341d6db" width="180" alt="Settings">
-      </td>
+      <td style="border: none;"></td>
     </tr>
     <!-- Fila Inferior: Lista de Apps -->
     <tr>
@@ -34,7 +30,26 @@ A minimal Terminal-Inspired Android launcher.
       <td style="border: none;"></td>
     </tr>
   </table>
+
+  <br>
+
+  <!-- Vistas secundarias plegables -->
+  <details>
+    <summary>👈 <b>Swipe Left:</b> View Notes</summary>
+    <br>
+    <img src="https://github.com/user-attachments/assets/316def85-e556-43e2-bfa3-11142d3fce51" width="180" alt="Notes">
+  </details>
+
+  <br>
+
+  <details>
+    <summary>👉 <b>Swipe Right:</b> View Settings</summary>
+    <br>
+    <img src="https://github.com/user-attachments/assets/256ce918-5f77-4177-bede-f8b2a341d6db" width="180" alt="Settings">
+  </details>
 </div>
+
+---
 
 ### Installation steps:
 1. Download the `.apk` file on your Android device.
