@@ -1,4 +1,4 @@
-# OpenLauncher
+# TTY-Launcher
 A minimal Terminal-Inspired Android launcher.
 
 ## App
