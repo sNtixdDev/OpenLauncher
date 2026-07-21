@@ -1,2 +1,41 @@
 # OpenLauncher
 A minimal Terminal-Inspired Android launcher.
+
+## App
+<div align="center">
+  <h3>Interface Navigation</h3>
+  <table>
+    <!-- Fila Superior: Calendario -->
+    <tr>
+      <td></td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/d6abedee-800d-4d4d-a56f-a1aa7020ae87" width="180" alt="Calendar"><br>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://github.com/user-attachments/assets/316def85-e556-43e2-bfa3-11142d3fce51" width="180" alt="Notes"><br>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github.com/user-attachments/assets/8f548af0-368d-4ba4-bb57-0e2a463804ce" width="180" alt="HomeScreen">
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github.com/user-attachments/assets/256ce918-5f77-4177-bede-f8b2a341d6db" width="180" alt="Settings">
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/8602171b-b43f-4a7f-ae10-9be9940c37ae" width="180" alt="App List">
+      </td>
+      <td></td>
+    </tr>
+  </table>
+</div>
+
+### Installation steps:
+1. Download the `.apk` file on your Android device.
+2. Allow installation from unknown sources if prompted.
+3. Open the file and tap **Install**.
+4. Set OpenLauncher as your default home app.
